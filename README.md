@@ -1,0 +1,2 @@
+# Smart-meal-planner-agent-for-personalized-nutrition
+The Smart Meal Planner Agent is an AI-powered nutrition and diet-planning assistant designed to help users create personalized daily and weekly meal plans based on their goals, dietary preferences, and nutritional needs. The purpose of this capstone project is to demonstrate how a generative, tool-augmented, multi-turn AI agent can solve a problem.
